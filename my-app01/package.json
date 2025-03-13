@@ -1,5 +1,5 @@
 {
-  "name": "myapp-01",
+  "name": "my-app01",
   "version": "0.1.0",
   "scripts": {
     "format": "prettier --ignore-unknown --cache --check .",
